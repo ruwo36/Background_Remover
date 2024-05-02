@@ -29,7 +29,7 @@ Then I used the **rembg library** to remove the backgrounds of the images.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/ruwo36/background-remover.git
+   git clone https://github.com/ruwo36/Background_Remover.git
    ```
 
 2. Install dependencies:
@@ -72,7 +72,7 @@ Then I used the **rembg library** to remove the backgrounds of the images.
 ```bash
 python main_with_cv2.py
 ```
-Show it in my [LinkedIn](https://www.linkedin.com/in/ali-n-ajeeb), I post a video explain it.
+Show it in my [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7191694479525908481/), I post a video explain it.
 
 ## License
 
